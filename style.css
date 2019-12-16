@@ -1,0 +1,27 @@
+div {
+    position: absolute;
+    top: 25%;
+    right: 40%;
+}
+input{
+    width: 550px;
+    border-radius: 10rem;
+    position: absolute;
+    top: 44%;
+    right: 30%;
+    height: 40px;
+}
+#buttondiv {
+    position: absolute;
+    top: 56%;
+    right: 42%;
+    display: inline-block;
+}
+button {
+    border-radius: .30rem;
+    height: 40px;
+    width: 120px;
+}
+#firstbutton {
+    padding-right: 3px;
+}
